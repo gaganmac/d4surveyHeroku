@@ -1,26 +1,21 @@
-{
-  "questions": [
+  
+"questions": [
     {
-      "body": "What type of bear is best?",
-      "kind": "text"
+      "body": "We have 4 questions for you and you get a pitcher on us! Answer only in numbers. 1 - How many people went with you?",
+      "type": "numeric"
     },
     {
-      "body": "In a scale of 1 to 10, how cute do you find koalas?",
-      "kind": "numeric"
+      "body": "2. How many filters did you create?",
+      "type": "numeric"
     },
     {
-      "body": "Do you think bears beat beets?",
-      "kind": "yes-no"
+      "body": "3. How many snaps did you post?",
+      "type": "numeric"
     },
     {
-      "body": "What's the relationship between Battlestar Galactica and bears?",
-      "kind": "text"
-    },
-    {
-      "body": "Do sloths qualify as bears?",
-      "kind": "text"
+      "body": "4. How much did your group spend?",
+      "type": "numeric"
     }
-
   ],
-  "title": "About bears"
+  "title": "D4S!"
 }
